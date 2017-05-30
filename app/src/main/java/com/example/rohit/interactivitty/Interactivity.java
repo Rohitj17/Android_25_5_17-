@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.EditText;
 
 public class Interactivity extends AppCompatActivity {
-
+public  static final String key_r="Str";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,13 +20,31 @@ public class Interactivity extends AppCompatActivity {
 
                 if (u.equals("Rohit") && p.equals("Rohit")) {
                    Bundle b=new Bundle();
-                    b.putString("Str",u);
+                    b.putString(key_r,u);
                     b.putInt("Key",124);
                     Intent i = new Intent(Interactivity.this, MainActivity.class);
                     i.putExtras(b);
-                    startActivity(i);
+                    startActivityForResult(i,201);
+
                 }
             }
         });
+
     }
+    public void onActivityResult(int requestcode,int resultcode,Intent data)
+    {
+        if(requestcode==201)
+        {
+            if(resultcode==200)
+            {
+                if(data!=null)
+                {
+                    Bundle b1=data.getExtras();
+                    String res = b1.getString(MainActivity.key_res);
+                    ((EditText) findViewById(R.id.editText2)).setText(res);
+                }
+            }
+        }
+    }
+
 }
