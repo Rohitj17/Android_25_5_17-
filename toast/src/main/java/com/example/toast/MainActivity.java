@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         Button b=new Button(this);
         b.setText("Learning Android!!");
         t.setView(b);
+        t.show();
     }
 }
