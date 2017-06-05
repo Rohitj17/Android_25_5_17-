@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dailogs</string>
+    <string name="Button">Time</string>
+    <string name="DatePicker">Date</string>
+    <string name="Progress">Progres</string>
+    <string name="Alerts">Alert</string>
+    <string name="User_def">Custom</string>
+    <string name="txtview">HI hello
+    Fully updated for Java Platform, Standard Edition 8 (Java SE 8), Java: A Beginners Guide, Sixth Edition gets you started programming in Java right away. Bestselling programming author Herb Schildt begins with the basics, such as how to create, compile, and run a Java program. He then moves on to the keywords, syntax,</string>
+</resources>
