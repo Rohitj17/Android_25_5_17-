@@ -5,6 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/Interactivitty.iml" filepath="$PROJECT_DIR$/Interactivitty.iml" />
       <module fileurl="file://$PROJECT_DIR$/activitylife_date/activitylife_date.iml" filepath="$PROJECT_DIR$/activitylife_date/activitylife_date.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailogs/dailogs.iml" filepath="$PROJECT_DIR$/dailogs/dailogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailogs2/dailogs2.iml" filepath="$PROJECT_DIR$/dailogs2/dailogs2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/externalizing_code/externalizing_code.iml" filepath="$PROJECT_DIR$/externalizing_code/externalizing_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragments_creation/fragments_creation.iml" filepath="$PROJECT_DIR$/fragments_creation/fragments_creation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handleruntimeconfig_change(landscapepotrait)/handleruntimeconfig_change(landscapepotrait).iml" filepath="$PROJECT_DIR$/handleruntimeconfig_change(landscapepotrait)/handleruntimeconfig_change(landscapepotrait).iml" />
+      <module fileurl="file://$PROJECT_DIR$/runtime_config_changes_manually/runtime_config_changes_manually.iml" filepath="$PROJECT_DIR$/runtime_config_changes_manually/runtime_config_changes_manually.iml" />
+      <module fileurl="file://$PROJECT_DIR$/status_bar_notification/status_bar_notification.iml" filepath="$PROJECT_DIR$/status_bar_notification/status_bar_notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toast/toast.iml" filepath="$PROJECT_DIR$/toast/toast.iml" />
     </modules>
   </component>
 </project>

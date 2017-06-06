@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Externalizing_code</string>
+    <string name="title">coolCodders.com</string>
+
+    <string-array name="courses">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Spring</item>
+        <item>Apple</item>
+        <item>Angular</item>
+    </string-array>
+
+</resources>

@@ -10,6 +10,14 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/activitylife_date" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dailogs" />
+            <option value="$PROJECT_DIR$/dailogs2" />
+            <option value="$PROJECT_DIR$/externalizing_code" />
+            <option value="$PROJECT_DIR$/fragments_creation" />
+            <option value="$PROJECT_DIR$/handleruntimeconfig_change(landscapepotrait)" />
+            <option value="$PROJECT_DIR$/runtime_config_changes_manually" />
+            <option value="$PROJECT_DIR$/status_bar_notification" />
+            <option value="$PROJECT_DIR$/toast" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

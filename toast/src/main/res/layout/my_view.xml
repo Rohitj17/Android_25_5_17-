@@ -9,17 +9,18 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="0dp"
+        app:srcCompat="@android:drawable/btn_star_big_on"
         android:layout_weight="0.6"
-        android:src="@mipmap/ic_launcher_round" />
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="0.4">
+        />
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="0.4">
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="10dp"
+        android:padding="30sp"
         android:text="@string/txtview"
         android:textSize="@dimen/large"/>
     </ScrollView>

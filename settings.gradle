@@ -1,1 +1,1 @@
-include ':app', ':activitylife_date'
+include ':app', ':activitylife_date', ':handleruntimeconfig_change(landscapepotrait)', ':runtime_config_changes_manually', ':externalizing_code', ':fragments_creation', ':dailogs', ':toast', ':dailogs2', ':status_bar_notification'

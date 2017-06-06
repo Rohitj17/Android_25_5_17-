@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Status_bar_notification</string>
+    <string name="bfnokay">okay</string>
+    <string name="title_activity_notifiy">notifiy</string>
+</resources>

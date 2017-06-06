@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dailogs</string>
+    <string name="Alert">Alert</string>
+    <string name="Date">DatePicker</string>
+    <string name="Time">Time</string>
+    <string name="Progress">Progress</string>
+    <string name="Custom">Custom</string>
+</resources>
